@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.listContainer {
+  list-style-type: none;
+  height: 250px;
+  width: 300px;
+}
+.para {
+  color: #0f172a;
+  font-family: 'Open Sans';
+}
+.imgSize {
+  height: 150px;
+  width: 250px;
+}

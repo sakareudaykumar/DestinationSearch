@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.heading {
+  color: #0f172a;
+  font-size: 24px;
+  font-family: 'Roboto';
+}
+.inputCard {
+  background-color: #f1f5f9;
+  margin-bottom: 15px;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container {
+  margin: 10px;
+}
+.search {
+  height: 20px;
+}
+.input-container {
+  display: flex;
+}
